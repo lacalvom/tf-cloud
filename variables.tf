@@ -42,3 +42,10 @@ variable "ingress_ports_list" {
 # variable "Paris_cidr" {
 # }
 
+variable "access_key" {
+
+}
+
+variable "secret_key" {
+
+}
